@@ -4,3 +4,6 @@ There is still more work to be done as automotive companies strive to reach leve
 
 ### Operation
 The software detects drowsiness of the driver, by constantly monitoring Eyes-Aspect-Ratio(EAR), and a voice alert is sent to the Infotainment System if the driver is detected to be drowsy. Following this, the Infotainment System also recommends nearby places for refreshments which includes cafes, restaurants, rest areas, hotels along with the distance. The software also detects the emotions of the driver and the software suggests recommended actions based on that.
+
+
+![drowsiness](https://user-images.githubusercontent.com/56112545/189865699-056990e7-ddd5-4d74-868c-f0278878e419.png)
