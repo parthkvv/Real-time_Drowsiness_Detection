@@ -1,6 +1,6 @@
 ### Real-Time Drowsiness-Detection System
 
-There is still more work to be done as automotive companies strive to reach level 4 autonomy. Given this, driver safety in automobiles is essential and is of prime concern. Numerous instances of drivers being inattentive owing to either shutting their eyes from too much sleep or emotional state are the major causes of accidents. Therefore, why not make a vehicle intelligent by having the infotainment system manage the driver's attention on the road, and enhance the driver's mental and emotional condition both before and while driving, making it more enjoyable and secure.
+Reaching level 4 autonomy neccesitates the advancements in driver safety. Given this, driver safety in automobiles is essential and is of prime concern. Numerous instances of drivers being inattentive owing to either shutting their eyes from too much sleep or emotional state are the major causes of accidents. Therefore, why not make a vehicle intelligent by having the infotainment system manage the driver's attention on the road, and enhance the driver's mental and emotional condition both before and while driving, making it more enjoyable and secure.
 
 So, we developed a CNN-based drowsiness detector with Dlib facial feature extractor with 91.6% accuracy. A sub-network based on lightweight architectures for a yawn and blink detection with an EAR threshold of 0.15 was also designed by our team. We ideated a CNN based on attention mechanism to achieve 0.5 deg best-case accuracy across the same FOV on NVGaze 2M images for eye gaze estimation.
 
